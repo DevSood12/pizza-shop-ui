@@ -397,11 +397,12 @@ section{
    }
 }
 
-.home-bg{
-   background:url(../images/home-bg.jpg) no-repeat;
+.home-bg {
+   background: url(images/home-bg.jpg) no-repeat;
    background-size: cover;
    background-position: center;
 }
+
 
 .home-bg .home .slide-container{
    margin-top: 12rem;
